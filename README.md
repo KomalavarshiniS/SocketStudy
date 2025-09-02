@@ -89,10 +89,10 @@ while True:
 ```
 ## Output:
 ### Client.py
-![alt text](<Screenshot 2025-09-02 090612.png>)
+![alt text](<Screenshot 2025-09-02 144322.png>)
 
 ### Server.py
-![alt text](<Screenshot 2025-09-02 090411.png>)
+![alt text](<Screenshot 2025-09-02 144315.png>)
 
 # Result:
 Thus the study of Socket Programming Completed Successfully
